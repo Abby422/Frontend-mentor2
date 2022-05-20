@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./desktopview.png)
-![](./Mobileview.png)
+![](./desktopview.png?raw=true "Desktop view")
+![](./Mobileview.png?raw=true "Mobile view")
 
 ### Links
 
